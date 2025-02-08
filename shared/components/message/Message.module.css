@@ -1,0 +1,16 @@
+.message {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 70%;
+}
+
+.outgoing {
+  background-color: #dcf8c6;
+  margin-left: auto;
+}
+
+.incoming {
+  background-color: #ececec;
+  margin-right: auto;
+}
